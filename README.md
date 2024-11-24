@@ -129,5 +129,3 @@ Feel free to fork the repository, create a branch, and submit a pull request. Pl
 For questions or feedback, feel free to contact me at [dariel.v.avila@gmail.com].
 
 ---
-
-This README gives a clean and professional overview of your Tagalog framework, covering installation, usage, and routes in a structured way. Let me know if you need further changes!
